@@ -1,0 +1,14 @@
+C:\code\Training\ASP\JWTAuthentication\KeyGan\bin\Debug\net7.0\KeyGan.exe
+C:\code\Training\ASP\JWTAuthentication\KeyGan\bin\Debug\net7.0\KeyGan.deps.json
+C:\code\Training\ASP\JWTAuthentication\KeyGan\bin\Debug\net7.0\KeyGan.runtimeconfig.json
+C:\code\Training\ASP\JWTAuthentication\KeyGan\bin\Debug\net7.0\KeyGan.dll
+C:\code\Training\ASP\JWTAuthentication\KeyGan\bin\Debug\net7.0\KeyGan.pdb
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\KeyGan.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\KeyGan.AssemblyInfoInputs.cache
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\KeyGan.AssemblyInfo.cs
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\KeyGan.csproj.CoreCompileInputs.cache
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\KeyGan.dll
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\refint\KeyGan.dll
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\KeyGan.pdb
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\KeyGan.genruntimeconfig.cache
+C:\code\Training\ASP\JWTAuthentication\KeyGan\obj\Debug\net7.0\ref\KeyGan.dll
